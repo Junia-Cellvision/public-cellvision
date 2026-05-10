@@ -1,0 +1,6 @@
+[tool.black]
+extend-exclude = '''
+(
+  ^/scripts/Hardware/*    # exclude Hardware folder
+)
+'''

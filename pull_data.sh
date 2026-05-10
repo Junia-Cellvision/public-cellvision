@@ -1,0 +1,1 @@
+scp -r student_cellvision@10.40.150.7:data/ ./

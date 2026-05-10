@@ -1,0 +1,3 @@
+[submodule "electrode_labeler/Hardware"]
+	path = electrode_labeler/Hardware
+	url = https://git.renater.fr/anonscm/git/pypanephy/Hardware.git

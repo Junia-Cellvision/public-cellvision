@@ -1,0 +1,15 @@
+
+measures/
+datasets/
+normalized_datasets/
+normalized_images/
+donnees-de-cellules/
+data/
+labeling/
+
+mea_classifier/checkpoints/
+mea_classifier/data_augmented/
+
+__pycache__
+.ipynb_checkpoints
+output/
